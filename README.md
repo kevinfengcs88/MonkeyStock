@@ -11,6 +11,25 @@ MonkeyStock is a two-stage application that assesses the sentiment that Twitter 
     <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;&nbsp;&nbsp;
     <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png">&nbsp;&nbsp;&nbsp;
     <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;&nbsp;&nbsp;
-
 </div>
 
+## Inspiration
+MonkeyStock was inspired by the titular primate, "Monkey," and the popular company ownership mode of trading, "Stock."
+
+## What it does
+MonkeyStock creates a model from Twitter users' sentiment about stocks and then interprets information from the model to buy and sell stocks.
+
+## How we built it
+To build MonkeyStock, we first set up a Live Share session in Visual Studio Code so we could have a live, collaborative environment to add files and code to. We researched the necessary packages and tools for creating a model based on Twitter users' sentiments and then...
+
+## Challenges we ran into
+1. Stringifying the data during data preprocessing
+
+## Accomplishments that we're proud of
+1. Successfully stringifying the data during data preprocessing 
+
+## What we learned
+Monkeys are incredibly proficient at trading stocks.
+
+## What's next for MonkeyStock
+Next, we will integrate real-life monkeys that buy and sell stock. Apes such as chimpanzees and gorillas will also be accepted. We are a non-discriminatory organiziation.
