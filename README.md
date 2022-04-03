@@ -47,4 +47,4 @@ Next, we will integrate real-life monkeys that buy and sell stock. Apes such as 
 ## Additional Resources
 [We Will Always be Apes: Return to Monke (Blog post by Kevin Feng)](https://kevinfeng-cs88.medium.com/we-will-always-be-apes-return-to-monke-38f4848961f3)
 
-[]
+[Monkeytype (The best typing site in existence)](https://monkeytype.com/)
