@@ -7,3 +7,4 @@ training.1600000.processed.noemoticon.csv
 .env/
 keys.py
 /keys.py
+keys.py/
