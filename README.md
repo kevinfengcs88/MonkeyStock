@@ -37,6 +37,9 @@ Next, we will integrate real-life monkeys that buy and sell stock. Apes such as 
 
 ## Creators of MonkeyStock
 [Michael Bazarsky](https://github.com/mike-bazarsky)
+
 [Vanessa Chin](https://github.com/VChin529)
+
 [Kevin Feng](https://github.com/kevinfengcs88)
+
 [Eric Xuan](https://github.com/EricXuan02)
